@@ -1,4 +1,4 @@
-# Basic Props Example
+# Birthday Reminder Project
 ![visual representation](visual-representation.gif)
 
 # Getting Started with Create React App
