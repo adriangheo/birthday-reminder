@@ -1,4 +1,4 @@
-export default [
+const data =  [
     {
       id: 1,
       name: 'Joanne Doe',
@@ -35,4 +35,4 @@ export default [
         'https://i.imgur.com/6ERnLJf.jpg',
     },
   ];
-  
+   export default data;
